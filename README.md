@@ -1,4 +1,4 @@
 
-Ph Transparency Portal GCLOUDblinkrenderGoogleMapGrounded
+GCLOUDblinkrenderGoogleMapGrounded
 IntigrityinfiniteIOTmuldimentinalintelcoreJethrologiccodexseal
-IAM API
+IAM API GLCI
